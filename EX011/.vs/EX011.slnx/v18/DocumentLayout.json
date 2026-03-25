@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia.gbenetti\\source\\repos\\EX011\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6284F774-4A48-4F0A-87A4-F33F5FBB31B7}|EX011\\EX011.csproj|c:\\users\\julia.gbenetti\\source\\repos\\ex011\\ex011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284F774-4A48-4F0A-87A4-F33F5FBB31B7}|EX011\\EX011.csproj|solutionrelative:ex011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia.gbenetti\\source\\repos\\EX011\\EX011\\Program.cs",
+              "RelativeDocumentMoniker": "EX011\\Program.cs",
+              "ToolTip": "C:\\Users\\julia.gbenetti\\source\\repos\\EX011\\EX011\\Program.cs",
+              "RelativeToolTip": "EX011\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:13:18.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
